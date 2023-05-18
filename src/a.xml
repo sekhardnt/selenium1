@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name ="testng.p1"/>
+        <exclude method="add"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
